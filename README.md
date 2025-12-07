@@ -40,7 +40,7 @@ Helps improve customer satisfaction and reduce losses
 -- Links
 
 Google Colab Notebook
-https://colab.research.google.com/drive/1vxBD-3onBpIuo83xGhOl9Z07JsKWYK2i?usp=sharing
+https://colab.research.google.com/drive/1sNlV6qPLwdQKaIjISCRYJMKeEwNcbHms?usp=sharing
 
 Kaggle Notebook
 https://www.kaggle.com/code/hiimanshuagarwal/customer-churn-prediction
